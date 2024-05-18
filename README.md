@@ -3,7 +3,7 @@
 The notebook aims to detect fraudulent transactions using machine learning models.
 
 ## Data Overview
-- The dataset contains 6,362,620 entries and 11 columns.
+- The dataset contains 6,362,620 entries and 11 columns.(https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download)
 - Columns include information like transaction type, amount, origin and destination balances, and fraud indicators.
 
 ## Data Preprocessing
